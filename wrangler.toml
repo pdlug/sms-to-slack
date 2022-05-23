@@ -1,0 +1,7 @@
+name = "sms-to-slack"
+workers_dev = true
+node_compat = true
+compatibility_date = "2022-05-03"
+
+[vars]
+SLACK_WEBHOOK_URL=""
